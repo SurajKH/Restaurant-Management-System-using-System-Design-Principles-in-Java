@@ -9,6 +9,7 @@ System Design Principles Considered:
 Factory Design Pattern:
 
 1.Segregation of Orders Based on Starters,Main Course,Desserts.
+
 2.Generate payments based on Starters,MainCourse,Desserts.
 
 Chain of Responsibility Design Pattern:
