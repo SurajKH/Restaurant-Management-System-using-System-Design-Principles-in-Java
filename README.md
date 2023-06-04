@@ -2,6 +2,8 @@
 
 Restaurant Management System using System Design Principles in Java
 
+Admin Privileges:
+
 System Design Principles Considered:
 
 Factory Design Pattern:
@@ -10,5 +12,5 @@ Factory Design Pattern:
 
 Chain of Responsibility Design Pattern:
 
-(Load Balancing Factor).
-
+1.Load Balancing Factor.
+2.Payment Initiation.
