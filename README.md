@@ -12,6 +12,13 @@ Factory Design Pattern:
 
 2.Generate payments based on Starters,MainCourse,Desserts.
 
+
+
+
+
+
+
+
 Chain of Responsibility Design Pattern:
 
 1.Load Balancing Factor.
