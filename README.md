@@ -6,3 +6,4 @@ System Design Principles Considered:
 
 Factory Design Pattern
 
+Chain of Responsibility Design Pattern
