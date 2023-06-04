@@ -6,4 +6,5 @@ System Design Principles Considered:
 
 Factory Design Pattern
 
-Chain of Responsibility Design Pattern
+Chain of Responsibility Design Pattern:(Load Balancing Factor).
+
