@@ -2,9 +2,12 @@
 
 Restaurant Management System using System Design Principles in Java
 
-Admin Privileges:
 
 System Design Principles Considered:
+
+Singleton Design Pattern:
+
+1.Creation of a single Instance of the Restaurant.
 
 Factory Design Pattern:
 
