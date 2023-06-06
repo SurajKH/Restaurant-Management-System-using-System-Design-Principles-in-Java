@@ -19,4 +19,4 @@ System Design Principles Considered:
 
 3.1 Load Balancing Factor.
 
-3.2 Payment Initiation(CashPayment Mode,CardPayment Mode,Hybrid Payment Mode).
+3.2 Payment Initiation.
