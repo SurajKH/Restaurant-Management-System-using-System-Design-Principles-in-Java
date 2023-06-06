@@ -3,7 +3,7 @@
 Restaurant Management System using System Design Principles in Java
 
 
-System Design Principles Considered:(Singleton Design Pattern
+System Design Principles Considered:(Singleton Design Pattern,Factory Design Pattern
 
 1.Singleton Design Pattern:
 
